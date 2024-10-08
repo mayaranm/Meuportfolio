@@ -2,19 +2,18 @@
 
 **Portifólio e site pessoal👩🏻‍💻**
 
-Sobre o projeto💻
+##Sobre o projeto💻
 
 Este é primeiro projeto desenvolvido por mim, com intuito de criar o meu portifólio e me apresentar para as pessoas. 
 
 
-Objetivo☕
+##Objetivo☕
 
 Essa página tem como objetivo apresentar minha jornada pessoal e profissional, para que os leitores 
 tenham a oportunidade de conhecer quem sou e quais projetos já foram desenvolvidos por mim. 
 
-
-*Está página é frequentemente atualizada*
-
-Desenvolvido com:
+##Desenvolvido com:
 HTML
 CSS 
+
+*Está página é frequentemente atualizada*
