@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     line-height: 1.6;
-    background-color: #191825; /* Fundo */
-    color: #F5F5F7; /* Texto */
+    background-color: #EAEAEA; /* Fundo */
+    color: #3C4048; /* Texto */
 }
 
 header {
@@ -12,7 +12,7 @@ header {
 }
 
 h1, h2, h3 {
-    color: #865DFF; /* Títulos e Nomes em Destaque */
+    color: #00ABB3; /* Títulos e Nomes em Destaque */
 }
 
 ul {
@@ -22,12 +22,12 @@ ul {
 
 .section {
     margin-bottom: 20px;
-    background: #191825; /* Fundo da seção */
+    background:  #EAEAEA; /* Fundo da seção */
     padding: 15px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 a {
-    color: #865DFF; /* Link */
+    color: #00ABB3; /* Link */
 }
