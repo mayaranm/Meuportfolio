@@ -11,18 +11,24 @@ header {
     margin-bottom: 30px;
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
+.navbar {
+    background-color: #00ABB3; /* Cor de destaque para o sumário */
+    padding: 10px 0;
 }
 
-nav ul li {
-    display: inline;
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centraliza os itens */
+}
+
+.navbar ul li {
     margin: 0 15px;
 }
 
-nav a {
-    color: #00ABB3;
+.navbar a {
+    color: white; /* Cor do texto no sumário */
     text-decoration: none;
     font-weight: bold;
 }
@@ -52,4 +58,17 @@ ul {
 
 a {
     color: #00ABB3; /* Link */
+}
+
+.footer {
+    background-color: #00ABB3; /* Cor de fundo do rodapé */
+    color: white; /* Cor do texto no rodapé */
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.footer a {
+    color: white; /* Cor dos links no rodapé */
+    text-decoration: none;
 }
