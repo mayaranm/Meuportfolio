@@ -1,2 +1,19 @@
 # Meuportifolio
-Primeiro projeto desenvolvido por mim, com intuito de criar o meu portifólio e mostrar minhas habilidades com programação
+#**Portifólio e site pessoal👩🏻‍💻**
+
+##Sobre o projeto💻##
+
+Este é primeiro projeto desenvolvido por mim, com intuito de criar o meu portifólio e me apresentar para as pessoas. 
+
+
+##Objetivo☕
+
+Essa página tem como objetivo apresentar minha jornada pessoal e profissional, para que os leitores 
+tenham a oportunidade de conhecer quem sou e quais projetos já foram desenvolvidos por mim. 
+
+
+*Está página é frequentemente atualizada*
+
+##Desenvolvida
+HTML
+CSS 
