@@ -16,4 +16,4 @@ tenham a oportunidade de conhecer quem sou e quais projetos já foram desenvolvi
 HTML
 CSS 
 
-*Está página é frequentemente atualizada*
+*Está página é frequentemente atualizada* 08-10-24
