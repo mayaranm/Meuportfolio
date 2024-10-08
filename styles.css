@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     line-height: 1.6;
-    background-color: #EAEAEA; /* Fundo */
-    color: #3C4048; /* Texto */
+    background-color: #EAEAEA;
+    color: #3C4048;
 }
 
 header {
@@ -11,8 +11,24 @@ header {
     margin-bottom: 30px;
 }
 
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: #00ABB3;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 h1, h2, h3 {
-    color: #00ABB3; /* Títulos e Nomes em Destaque */
+    color: #00ABB3;
 }
 
 ul {
@@ -22,10 +38,16 @@ ul {
 
 .section {
     margin-bottom: 20px;
-    background:  #EAEAEA; /* Fundo da seção */
+    background: #FFFFFF; /* Fundo da seção */
     padding: 15px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.section img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
 }
 
 a {
