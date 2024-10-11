@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     line-height: 1.6;
-    background-color: #141E46;
-    color: #3C4048;
+    background-color: #FFF5E0;
+    color: #FF6969;
 }
 
 header {
@@ -12,7 +12,7 @@ header {
 }
 
 .navbar {
-    background-color: #BB2525; /* Cor de destaque para o sumário */
+    background-color: #141E46; /* Cor de destaque para o sumário */
     padding: 10px 0;
 }
 
@@ -28,13 +28,13 @@ header {
 }
 
 .navbar a {
-    color: #FFF5E0; /* Cor do texto no sumário */
+    color: #FF6969; /* Cor do texto no sumário */
     text-decoration: none;
     font-weight: bold;
 }
 
 h1, h2, h3 {
-    color: #BB2525;
+    color: #FF6969;
 }
 
 ul {
@@ -44,7 +44,7 @@ ul {
 
 .section {
     margin-bottom: 20px;
-    background: #141E46; /* Fundo da seção */
+    background: #FFF5E0; /* Fundo da seção */
     padding: 15px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
