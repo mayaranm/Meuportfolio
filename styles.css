@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     line-height: 1.6;
-    background-color: #EAEAEA;
+    background-color: #141E46;
     color: #3C4048;
 }
 
@@ -12,7 +12,7 @@ header {
 }
 
 .navbar {
-    background-color: #00ABB3; /* Cor de destaque para o sumário */
+    background-color: #BB2525; /* Cor de destaque para o sumário */
     padding: 10px 0;
 }
 
@@ -28,13 +28,13 @@ header {
 }
 
 .navbar a {
-    color: white; /* Cor do texto no sumário */
+    color: #FFF5E0; /* Cor do texto no sumário */
     text-decoration: none;
     font-weight: bold;
 }
 
 h1, h2, h3 {
-    color: #00ABB3;
+    color: #BB2525;
 }
 
 ul {
@@ -44,7 +44,7 @@ ul {
 
 .section {
     margin-bottom: 20px;
-    background: #FFFFFF; /* Fundo da seção */
+    background: #141E46; /* Fundo da seção */
     padding: 15px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -57,7 +57,7 @@ ul {
 }
 
 a {
-    color: #00ABB3; /* Link */
+    color: #141E46; /* Link */
 }
 
 .footer {
@@ -69,6 +69,6 @@ a {
 }
 
 .footer a {
-    color: white; /* Cor dos links no rodapé */
+    color: #141E46; /* Cor dos links no rodapé */
     text-decoration: none;
 }
