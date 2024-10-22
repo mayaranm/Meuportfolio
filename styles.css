@@ -34,7 +34,7 @@ header {
 }
 
 h1, h2, h3 {
-    color: #FF6969;
+    color: #CD1818;
 }
 
 ul {
@@ -69,6 +69,6 @@ a {
 }
 
 .footer a {
-    color: #141E46; /* Cor dos links no rodapé */
+    color: #CD1818; /* Cor dos links no rodapé */
     text-decoration: none;
 }
