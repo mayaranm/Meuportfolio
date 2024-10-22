@@ -1,19 +1,20 @@
-# Meuportfólio
+# Meu Portfólio
 
-# **Portifólio e site pessoal👩🏻‍💻**
+## Descrição
 
-## Sobre o projeto💻
+Bem-vindo ao meu portfólio! Este projeto foi desenvolvido com **HTML** e **CSS** e tem como objetivo apresentar meus trabalhos, habilidades e projetos de forma clara e atraente. O design é moderno e minimalista, proporcionando uma experiência agradável para os visitantes.
 
-Este é primeiro projeto desenvolvido por mim, com intuito de criar o meu portifólio e me apresentar para as pessoas. 
+## Tecnologias Utilizadas
 
+- **HTML**: Estruturação do conteúdo e organização das seções.
+- **CSS**: Estilização e design responsivo para garantir uma boa experiência em diferentes dispositivos.
 
-## Objetivo
+## Funcionalidades
 
-Essa página tem como objetivo apresentar minha jornada pessoal e profissional, para que os leitores 
-tenham a oportunidade de conhecer quem sou e quais projetos já foram desenvolvidos por mim. 
+- **Apresentação de Projetos**: Exibe os principais projetos em que trabalhei, com descrições e links.
+- **Seção Sobre Mim**: Uma breve descrição da minha experiência e habilidades.
+- **Contato**: Formulário de contato para facilitar a comunicação.
 
-##Desenvolvido com:
-HTML
-CSS 
+## Visualização
 
-*Está página é frequentemente atualizada* 08-10-24
+Você pode visualizar o portfólio acessando o link: [Meu Portfólio](https://seu-link-aqui)
